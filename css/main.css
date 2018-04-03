@@ -1,0 +1,11 @@
+
+* {
+  font-family: 'Allerta Stencil', sans-serif;
+}
+
+
+h1 {
+  display: inline-block;
+  margin: 0 3.5%;
+  color: black;
+}
